@@ -1,1 +1,1 @@
-helloeveryone
+int a=5;
